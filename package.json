@@ -1,9 +1,9 @@
 {
-  "name": "es6-string-html",
-  "displayName": "es6-string-html",
-  "description": "Syntax highlighting in es6 multiline strings",
-  "version": "1.8.2",
-  "publisher": "Tobermory",
+  "name": "hacky-es6-template-strings",
+  "displayName": "hacky-es6-template-strings",
+  "description": "Syntax highlighting in es6 template strings",
+  "version": "0.0.1",
+  "publisher": "AdamHjerpe",
   "icon": "docs/logo.png",
   "engines": {
     "vscode": "^1.19.0"
@@ -13,10 +13,10 @@
     "theme": "light"
   },
   "repository": {
-    "url": "https://github.com/mydesireiscoma/es6-string-html"
+    "url": "https://github.com/AdamHjerpe/hacky-es6-template-strings"
   },
   "bugs": {
-    "url": "https://github.com/mydesireiscoma/es6-string-html/issues"
+    "url": "https://github.com/AdamHjerpe/hacky-es6-template-strings/issues"
   },
   "main": "./scripts/main",
   "categories": [
