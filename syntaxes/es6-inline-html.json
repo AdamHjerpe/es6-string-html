@@ -18,7 +18,7 @@
   },
   "patterns": [
     {
-      "begin": "(.?(html|template))(`)",
+      "begin": "[:=]([\\s*\\S]*))(`)",
       "end": "(`)",
       "beginCaptures": {
         "1": {
