@@ -1,8 +1,8 @@
 {
   "name": "hacky-es6-template-strings",
-  "displayName": "hacky-es6-template-strings",
+  "displayName": "Hacky ES6 Template Strings",
   "description": "Syntax highlighting in es6 template strings",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "A-Hjerpe",
   "icon": "docs/logo.png",
   "engines": {
